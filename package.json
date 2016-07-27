@@ -1,0 +1,29 @@
+{
+  "name": "fcc-image-search-sahajr",
+  "version": "0.2.5",
+  "description": "FCC challenge image search by sahajr",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bing.search": "1.0.1",
+    "express": "4.13.3",
+    "body-parser" : "1.15.2",
+    "mongodb": "2.2.4",
+    "promised-mongo": "1.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SahajR/fcc-image-search.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}

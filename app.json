@@ -1,0 +1,8 @@
+{
+  "name": "fcc-image-search",
+  "description": "FCC challenge image search by sahajr",
+  "repository": "https://github.com/SahajR/fcc-image-search.git",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}
